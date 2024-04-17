@@ -1,0 +1,112 @@
+header{
+background-color: #ff0037;
+width: 100%;
+height: 200px;
+}
+
+footer{
+    background-color: #cccc99;
+    width: 100%;
+    height: 150px;
+}
+
+table {
+    width: 100%;
+}
+
+#kolom1{
+    background-color: #FFFFFF;
+}
+
+#kolom1 p{
+    background-color: #00FF00;
+}
+
+#kolom2{
+    background-color: #FFCCFF;
+}
+
+#kolom3{
+    background-color: #FF99FF;
+}
+
+#kolom3 p{
+    background-color: midnightblue;
+    color: white;
+}
+
+#kolom4{
+    background-color: #baff66;
+}
+
+td {
+    text-align: center;
+}
+
+td#cel1-2{
+    background-color: #CCFFFF;
+}
+
+td#cel1-2 p{
+    background-color: #CC66FF;
+}
+
+td#cel2-2 {
+    background-color: #CCCCFF;
+}
+td#cel3-2 {
+    background-color: #CC99FF;
+}
+td#cel3-2 p {
+    background-color: cornflowerblue;
+}
+td#cel4-2 {
+    background-color: gray;
+}
+
+td#cel1-3{
+    background-color: #99FFFF;
+}
+
+td#cel1-3 p{
+    background-color: #8b4e22;
+}
+
+td#cel2-3{
+    background-color: #99CCFF;
+}
+
+td#cel3-3{
+    background-color: #9900cf;
+}
+
+td#cel3-3 p{
+    background-color: cyan;
+}
+
+td#cel4-3{
+    background-color: #9966FF;
+}
+
+td#cel1-4{
+    background-color: #66FFFF;
+}
+
+td#cel1-4 p{
+    background-color: orangered;
+}
+
+td#cel2-4{
+    background-color: #66CCFF;
+}
+td#cel3-4{
+    background-color: #66ffc9;
+}
+
+td#cel3-4 p{
+    background-color: blue;
+    color: white;
+}
+td#cel4-4{
+    background-color: #ff66c4;
+}
